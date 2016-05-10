@@ -3,6 +3,11 @@ FishCaller
 
 This is a simple circuit that will do short beeps at a few kHz. This should supposedly attract fish.
 
+The inspiration is from this [fish calling kit](https://www.youtube.com/watch?v=3qwl95RwPuM)
+and the circuit was adapted from this [alarm design](http://circuitdiagram.net/beeper-sound.html).
+
+!(http://circuitdiagram.net/beeper-sound.html)
+
 We will try and check if this works.
 
 For more details on the project check the [Mediated
